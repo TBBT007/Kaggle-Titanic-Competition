@@ -3,4 +3,4 @@ Using Logistic Regression( from scratch in python) to classify passengers as sur
 
 https://www.kaggle.com/c/titanic
 
-Accuracy : 77%
+Score : 0.77
